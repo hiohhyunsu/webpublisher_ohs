@@ -25,3 +25,4 @@
    3. 계정 ID / PW 
 5. github에 push
 6. github의 자료를 pull 처리하여 가져오기
+
